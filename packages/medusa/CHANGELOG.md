@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.12.2
+
+### Patch Changes
+
+- [#4367](https://github.com/medusajs/medusa/pull/4367) [`7bf7d2ade`](https://github.com/medusajs/medusa/commit/7bf7d2adef53b80230a36c22e639b471e501e52e) Thanks [@adrien2p](https://github.com/adrien2p)! - chore(medusa): Concurrently get the items and count instead of sequentially
+
 ## 1.12.1
 
 ### Patch Changes
